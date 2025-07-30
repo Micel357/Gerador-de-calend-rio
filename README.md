@@ -238,10 +238,6 @@ mvn test
 4. Push para a branch (`git push origin feature/nova-feature`)
 5. Abra um Pull Request
 
-## Licença
-
-Este projeto está licenciado sob a MIT License.
-
 ## Suporte
 
 Para suporte ou dúvidas, abra uma issue no repositório do projeto.
